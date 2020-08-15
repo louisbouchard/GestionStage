@@ -11,8 +11,7 @@ using GestionStages.ViewModels.MilieuStage;
 using System.Collections;
 
 namespace GestionStages.Controllers
-{
-    public class EntreprisesController : Controller
+{    public class EntreprisesController : Controller
     {
         private readonly ApplicationDbContext _context;
 

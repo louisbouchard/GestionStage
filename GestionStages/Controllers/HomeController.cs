@@ -9,6 +9,8 @@ using GestionStages.Models;
 
 namespace GestionStages.Controllers
 {
+    // Sur un autre poste de travail j'ai ajouté cette ligne
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
